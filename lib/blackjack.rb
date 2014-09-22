@@ -135,7 +135,7 @@ while play_again.upcase == "Y" do
     play_again = gets.chomp
   end
   if play_again.upcase == "N"
-    puts "Thanks for playing Blackjack!"
+    puts "Thanks for playing"
   else
     game += play_game name
   end
