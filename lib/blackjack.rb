@@ -1,10 +1,5 @@
 require 'pry'
 
-  #
-  # def initialize
-  #
-  # end
-
 def play_game name
   cardvalue = ["As", 2, 3, 4, 5, 6, 7, 8, 9, 10, "J", "Q", "K"]
   suits = ["Hearts", "Diamonds", "Spades", "Clubs"]
